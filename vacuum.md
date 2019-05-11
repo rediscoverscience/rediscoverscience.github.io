@@ -7,7 +7,7 @@ title: Vacuum
 
 <div class="mermaid">
 graph LR;
-    A(<i>natura vacuum abhorret</i><br><a href=abhorret><img src=https://upload.wikimedia.org/wikipedia/commons/a/ae/Aristotle_Altemps_Inv8575.jpg width=100 height=100/></a>)---B;
+    A(<i>natura vacuum abhorret</i><br><a href=vacuum/abhorret><img src=https://upload.wikimedia.org/wikipedia/commons/a/ae/Aristotle_Altemps_Inv8575.jpg width=100 height=100/></a>)---B;
     A---E(Lift pump);
     B(Galileo)--&gt;C[Weight of air];
     B--&gt;D(Limitation of the pump);
