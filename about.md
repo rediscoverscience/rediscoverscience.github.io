@@ -1,8 +1,7 @@
 ---
-theme: jekyll-theme-cayman
-layout: page
+layout: default
 title: About
 permalink: /about/
 ---
 
-### About me
+# About Us
