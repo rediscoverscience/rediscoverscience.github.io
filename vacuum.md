@@ -6,7 +6,7 @@ title: Vacuum
 # Hello vacuum!
 
 <div class="mermaid">
-graph TD;
+graph LR;
     A(<i>natura vacuum abhorret</i><br><a href=vacuum/abhorret><img src=https://upload.wikimedia.org/wikipedia/commons/a/ae/Aristotle_Altemps_Inv8575.jpg width=100 height=100/></a>)---B;
     A---E(Lift pump);
     B(<a href=vacuum/galileo>Galileo</a>)-->C[<a href=vacuum/weight-air>Weight of air</a>];
