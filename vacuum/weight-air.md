@@ -14,10 +14,18 @@ Since the syringe gave a measure of the volume of air contained in it, the volum
 
 ## A modern re-creation of Galileo's experiment
 
-### Materials needed
+### 1. Fixing a valve on a bottle
+
+#### Materials needed
 
 * A plastic cold drinks bottle
 * A 1/4" plastic valve used in RO water purifying systems
-* 
+* A 60 mL syringe
+* A knife of a pair of scissors
+* A candle
+* Fevi-kwik
+* Araldite epoxy resin
+
+
 
 
