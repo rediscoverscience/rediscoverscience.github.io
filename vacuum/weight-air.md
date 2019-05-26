@@ -21,7 +21,7 @@ Since the syringe gave a measure of the volume of air contained in it, the volum
 * A plastic cold drinks bottle
 * A 1/4" plastic valve used in RO water purifying systems
 * A 60 mL syringe
-* A knife of a pair of scissors (**Warning:** It will be used for melting and cutting through plastic; it should not be used for cooking or cutting food packets thereafter.)
+* A knife of a pair of scissors *(**Warning:** It will be used for melting and cutting through plastic; it should not be used for cooking or cutting food packets thereafter.)*
 * A candle
 * Fevi-kwik
 * Araldite epoxy resin
