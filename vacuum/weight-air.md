@@ -14,17 +14,24 @@ Since the syringe gave a measure of the volume of air contained in it, the volum
 
 ## A modern re-creation of Galileo's experiment
 
-### 1. Fixing a valve on a bottle
+### 1. A bottle with a valve
 
 #### Materials needed
 
 * A plastic cold drinks bottle
 * A 1/4" plastic valve used in RO water purifying systems
 * A 60 mL syringe
-* A knife of a pair of scissors
+* A knife of a pair of scissors (**Warning:** It will be used for melting and cutting through plastic; it should not be used for cooking or cutting food packets thereafter.)
 * A candle
 * Fevi-kwik
 * Araldite epoxy resin
+
+#### Fixing the valve on the bottle
+
+1. Heat the knife (or scissors) in a candle flame, and cut a <size> hole on the side of the bottle.
+2. Insert the plastic RO valve into the hole and stick it with Fevi-kwik.
+3. Use araldite to seal all the gaps between the bottle and the valve and make it airtight.
+
 
 
 
