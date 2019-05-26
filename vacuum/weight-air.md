@@ -12,8 +12,12 @@ Galileo took a round bottomed flask which had an airtight stopcock. He used a sy
 
 Since the syringe gave a measure of the volume of air contained in it, the volume of *extra* air forced into the flask could be determined. The increase in mass of the flask gave the weight of the extra air, and this weight divided by the volume of extra air gave the density of air.
 
-## A modern Re-creation
+## A modern re-creation of Galileo's experiment
 
+### Materials needed
 
+* A plastic cold drinks bottle
+* A 1/4" plastic valve used in RO water purifying systems
+* 
 
 
