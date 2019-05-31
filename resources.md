@@ -7,3 +7,4 @@ title: Resources and Bibliography
 
 * James Bryant Conant (ed). Harvard Case Histories in Experimental Science - [Volume 1](https://archive.org/details/harvardcasehisto010924mbp) & [Volume 2](https://archive.org/details/in.ernet.dli.2015.60093)
 * [Leopold E. Klopfer. History of Science Cases](https://www.hpsst.com/resources.html)
+* Michael R. Matthews. Time for Science Education- How Teaching the History and Philosophy of Pendulum Motion can Contribute to Scientific Literacy.
